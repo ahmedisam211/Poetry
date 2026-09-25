@@ -1,8 +1,8 @@
 export const poems = [
   {
-    id: "1",
-    title: "Ozymandias",
-    poet: "Percy Bysshe Shelley",
+    id: '1',
+    title: 'Ozymandias',
+    poet: 'Percy Bysshe Shelley',
     content: `I met a traveller from an antique land,
 Who said—“Two vast and trunkless legs of stone
 Stand in the desert. . . . Near them, on the sand,
@@ -19,9 +19,9 @@ Of that colossal Wreck, boundless and bare
 The lone and level sands stretch far away.”`
   },
   {
-    id: "2",
-    title: "The Road Not Taken",
-    poet: "Robert Frost",
+    id: '2',
+    title: 'The Road Not Taken',
+    poet: 'Robert Frost',
     content: `Two roads diverged in a yellow wood,
 And sorry I could not travel both
 And be one traveler, long I stood
@@ -47,33 +47,80 @@ I took the one less traveled by,
 And that has made all the difference.`
   },
   {
-    id: "3",
-    title: "A Dream Within a Dream",
-    poet: "Edgar Allan Poe",
-    content: `Take this kiss upon the brow!
-And, in parting from you now,
-Thus much let me avow —
-You are not wrong, who deem
-That my days have been a dream;
-Yet if hope has flown away
-In a night, or in a day,
-In a vision, or in none,
-Is it therefore the less gone? 
-All that we see or seem
-Is but a dream within a dream.
+    id: '3',
+    title: 'Stopping by Woods on a Snowy Evening',
+    poet: 'Robert Frost',
+    content: `Whose woods these are I think I know.   
+His house is in the village though;   
+He will not see me stopping here   
+To watch his woods fill up with snow.   
 
-I stand amid the roar
-Of a surf-tormented shore,
-And I hold within my hand
-Grains of the golden sand —
-How few! yet how they creep
-Through my fingers to the deep,
-While I weep — while I weep!
-O God! Can I not grasp 
-Them with a tighter clasp?
-O God! can I not save
-One from the pitiless wave?
-Is all that we see or seem
-But a dream within a dream?`
+My little horse must think it queer   
+To stop without a farmhouse near   
+Between the woods and frozen lake   
+The darkest evening of the year.   
+
+He gives his harness bells a shake   
+To ask if there is some mistake.   
+The only other sound’s the sweep   
+Of easy wind and downy flake.   
+
+The woods are lovely, dark and deep,   
+But I have promises to keep,   
+And miles to go before I sleep,   
+And miles to go before I sleep.`
+  },
+  {
+    id: '4',
+    title: '"Hope" is the thing with feathers',
+    poet: 'Emily Dickinson',
+    content: `"Hope" is the thing with feathers -
+That perches in the soul -
+And sings the tune without the words -
+And never stops - at all -
+
+And sweetest - in the Gale - is heard -
+And sore must be the storm -
+That could abash the little Bird
+That kept so many warm -
+
+I've heard it in the chillest land -
+And on the strangest Sea -
+Yet - never - in Extremity,
+It asked a crumb - of me.`
+  },
+  {
+    id: '5',
+    title: 'Because I could not stop for Death',
+    poet: 'Emily Dickinson',
+    content: `Because I could not stop for Death –
+He kindly stopped for me –
+The Carriage held but just Ourselves –
+And Immortality.
+
+We slowly drove – He knew no haste
+And I had put away
+My labor and my leisure too,
+For His Civility –
+
+We passed the School, where Children strove
+At Recess – in the Ring –
+We passed the Fields of Gazing Grain –
+We passed the Setting Sun –
+
+Or rather – He passed Us –
+The Dews drew quivering and Chill –
+For only Gossamer, my Gown –
+My Tippet – only Tulle –
+
+We paused before a House that seemed
+A Swelling of the Ground –
+The Roof was scarcely visible –
+The Cornice – in the Ground –
+
+Since then – 'tis Centuries – and yet
+Feels shorter than the Day
+I first surmised the Horses' Heads
+Were toward Eternity –`
   }
 ];
